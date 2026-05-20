@@ -1,4 +1,5 @@
 # 남자 모델만 출력 
+st.image("https://asset.connectdi.com/uploads/drug_photo/photo/130683/origin_wm_K-023054_130683.jpg")  
 
 import streamlit as st
 import numpy as np
