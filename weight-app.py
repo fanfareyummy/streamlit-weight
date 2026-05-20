@@ -1,10 +1,9 @@
-# 남자 모델만 출력 
-st.image("https://asset.connectdi.com/uploads/drug_photo/photo/130683/origin_wm_K-023054_130683.jpg")  
+# 남자 모델만 출력 \
 
 import streamlit as st
 import numpy as np
 import joblib
-
+st.image("https://asset.connectdi.com/uploads/drug_photo/photo/130683/origin_wm_K-023054_130683.jpg") 
 st.title("신체 정보를 이용한 몸무게 예측 머신러닝 모델")
 st.write("신체 정보를 입력하면 몸무게를 예측합니다.")
 
